@@ -54,5 +54,7 @@ If you are having some issues running the app, run the following script to clear
 npm run cleanNpm
 ```
 
+
 ## App Demo
+https://github.com/AneezaImtiaz/Meal-Roulette-App/assets/41996524/9484ebb4-d0fd-4d55-9e1d-a70fe3e21baf
 
